@@ -1,0 +1,354 @@
+[04Jan2026 06:46:13.599] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.217, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, nogui]
+[04Jan2026 06:46:13.600] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-122.04
+[04Jan2026 06:46:13.601] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.9 by Ubuntu; OS Linux arch amd64 version 5.15.0-144-generic
+[04Jan2026 06:46:13.670] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Jan2026 06:46:13.690] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/home/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[04Jan2026 06:46:13.824] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.217:server]
+[04Jan2026 06:46:13.834] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.1.217/neoforge-21.1.217-universal.jar]], reader: mod manifest]
+[04Jan2026 06:46:13.842] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "[1.21.1] SecurityCraft v1.10.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.844] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "advancednetherite-neoforge-2.3.1-1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.845] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Amplified_Nether_1.21.x_v1.2.13.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.846] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ATi Structures V1.4.2 (1.21+).jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.848] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.1-21.0.55.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.849] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Blood N' Particles v1.4.0 - NeoForge 1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.851] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "born_in_chaos_[Neoforge]_1.21.1_1.7.4.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.853] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "carryon-neoforge-1.21.1-2.2.4.4.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.854] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.855] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "collective-1.21.1-8.13.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.856] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "comforts-neoforge-9.0.4+1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.858] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cristellib-neoforge-1.21.1-3.0.2.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.859] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.5.1+1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.860] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cyclopscore-1.21.1-neoforge-1.28.0.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.861] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DungeonCrawl-NeoForge-1.21-2.3.15.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.863] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dungeons-and-taverns-v4.4.4 [NeoForge].jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.865] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DungeonsArise-1.21.1-2.1.68-release.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.865] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.867] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "evilcraft-1.21.1-neoforge-1.2.80.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.868] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "extra_dungeons-1.0.7-neoforge-1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.869] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "framework-neoforge-1.21.1-0.13.6.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.870] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.8.3.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.871] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "goblintraders-neoforge-1.21.1-1.11.2.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.872] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "grabbymobs-1.21.1-1.6.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.873] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iris-neoforge-1.8.12+mc1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.874] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.1-NeoForge-15.10.3.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.875] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.27.0.336.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.877] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.1-6.0.0-beta.53.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.878] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "justzoom_neoforge_2.1.0_MC_1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.879] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "konkrete_neoforge_1.9.9_MC_1.21.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.881] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "L_Ender's Cataclysm 1.21.1-3.16.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.882] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lionfishapi-2.6.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.883] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "medieval_buildings-1.21.1-1.1.1-neoforge.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.884] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.884] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.885] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MoogsEndStructures-1.21-2.0.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.886] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MoogsVoyagerStructures-1.21-5.0.3.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.887] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mowziesmobs-1.21.1-1.7.5.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.888] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nordic_structures-1.7.2-neoforge-1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.889] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "replantingcrops-1.21.1-5.5.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.890] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "smallships-neoforge-1.21.1-2.0.0-b2.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.891] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sodium-neoforge-0.6.13+mc1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.892] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.1-3.25.22.1487.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.893] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.1-1.3.100.1348.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.894] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "t_and_t-neoforge-fabric-1.13.7+1.21.1.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.895] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tombstone-neoforge-1.21.1-9.4.8.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.896] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "trashslot-neoforge-1.21.1-21.1.4.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.897] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.1-21.1.25.jar" [locator: {mods folder locator at /home/minecraft/server/mods}, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [parent: neoforge-21.1.217-universal.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.0.7+1.21.jar" [parent: balm-neoforge-1.21.1-21.0.55.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-3.4.0+acb05a3919.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.1-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.217.jar" [parent: neoforge-21.1.217-universal.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.53.jar, locator: jarinjar]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "spectrelib-neoforge-0.17.2+1.21.jar" [parent: comforts-neoforge-9.0.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.18-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.53.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "forgeconfigapiport-neoforge-21.1.0.jar" [parent: smallships-neoforge-1.21.1-2.0.0-b2.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.1-SNAPSHOT.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.53.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.988] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-1.2.3.jar" [parent: cristellib-neoforge-1.21.1-3.0.2.1.jar, locator: jarinjar]
+[04Jan2026 06:46:13.989] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[04Jan2026 06:46:13.989] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[04Jan2026 06:46:13.990] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Advanced Netherite 2.3.1 (advancednetherite)
+		Amplified Nether 1.2.13 (amplified_nether)
+		atistructures 1.4.0 (atistructures)
+		Balm 21.0.55 (balm)
+		Blood N' Particles Mod 1.4.0 (blood_n_particles_mod)
+		Born in Chaos  1.7.3 (born_in_chaos_v1)
+		Carry On 2.2.4 (carryon)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Collective 8.13 (collective)
+		Comforts 9.0.4+1.21.1 (comforts)
+		Common Networking 1.0.18-1.21.1 (commonnetworking)
+		Corail Tombstone 9.4.8 (tombstone)
+		Cristel Lib 3.0.2.1 (cristellib)
+		Curios API 9.5.1+1.21.1 (curios)
+		Cyclops Core 1.28.0 (cyclopscore)
+		Dungeon Crawl 2.3.15 (dungeoncrawl)
+		Dungeons and Taverns 1-v4.4.4 (mr_dungeons_andtaverns)
+		EvilCraft 1.2.80 (evilcraft)
+		extra dungeons 1.0.7 (extra_dungeons)
+		Forge Config API Port 21.1.0 (forgeconfigapiport)
+		Forgified Fabric API Base 0.4.42+d1308ded19 (fabric_api_base)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Framework 0.13.6 (framework)
+		GeckoLib 4 4.8.3 (geckolib)
+		Goblin Traders 1.11.2 (goblintraders)
+		Grabby Mobs 1.6 (grabbymobs)
+		Iris 1.8.12-snapshot+mc1.21.1-local (iris)
+		Jade 15.10.3+neoforge (jade)
+		Journeymap 1.21.1-6.0.0-beta.53 (journeymap)
+		JourneyMap API 2.0.0 (journeymap_api)
+		Just Enough Items 19.27.0.336 (jei)
+		Just Zoom 2.1.0 (justzoom)
+		Konkrete 1.9.9 (konkrete)
+		KumaAPI 21.0.7 (kuma_api)
+		L_Ender's Cataclysm 1.21.1 3.16 (cataclysm)
+		lionfishapi 2.6 (lionfishapi)
+		Medieval Buildings 1.1.1 (medieval_buildings)
+		Medieval Buildings [The End Edition] 1.0.4 (medievalend)
+		Minecraft 1.21.1 (minecraft)
+		Moog's Structure Lib 1.1.0-1.21-1.21.1 (moogs_structures)
+		MoogsEndStructures 2.0.0 (mes)
+		MoogsVoyagerStructures 5.0.3 (mvs)
+		Mowzie's Mobs 1.7.5 (mowziesmobs)
+		NeoForge 21.1.217 (neoforge)
+		nordic_adventure 1.7.4 (nordic_structures)
+		Replanting Crops 5.5 (replantingcrops)
+		SecurityCraft 1.10.1 (securitycraft)
+		Small Ships 2.0.0-b2.1 (smallships)
+		Sodium 0.6.13+mc1.21.1 (sodium)
+		Sophisticated Backpacks 3.25.22 (sophisticatedbackpacks)
+		Sophisticated Core 1.3.100 (sophisticatedcore)
+		SpectreLib 0.17.2+1.21 (spectrelib)
+		Towns and Towers 1.13.7 (t_and_t)
+		TrashSlot 21.1.4 (trashslot)
+		Waystones 21.1.25 (waystones)
+		When Dungeons Arise 2.1.68 (dungeons_arise)
+		When Dungeons Arise: Seven Seas 1.0.4 (dungeons_arise_seven_seas)
+[04Jan2026 06:46:14.495] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Jan2026 06:46:14.496] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[04Jan2026 06:46:14.559] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Jan2026 06:46:14.616] [main/WARN] [mixin/]: Reference map 'mowziesmobs.refmap.json' for mowziesmobs.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.616] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.617] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.618] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.618] [main/WARN] [mixin/]: Reference map 'goblintraders.refmap.json' for goblintraders.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.619] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.619] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.619] [main/WARN] [mixin/]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.632] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.633] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.633] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.633] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.633] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.635] [main/WARN] [mixin/]: Reference map 'mixins.medievalend.refmap.json' for mixins.medievalend.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.635] [main/WARN] [mixin/]: Reference map 'mixins.medieval_buildings.refmap.json' for mixins.medieval_buildings.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.635] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.647] [main/INFO] [Sodium/]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[04Jan2026 06:46:14.715] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.716] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.716] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.717] [main/WARN] [mixin/]: Reference map 'lionfishapi.refmap.json' for lionfishapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.717] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.717] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.717] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.718] [main/WARN] [mixin/]: Reference map 'securitycraft.refmap.json' for securitycraft.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.718] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.718] [main/WARN] [mixin/]: Reference map 'justzoom.refmap.json' for justzoom.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:14.719] [main/WARN] [mixin/]: Reference map 'justzoom.refmap.json' for justzoom.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Jan2026 06:46:15.194] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[04Jan2026 06:46:17.666] [modloading-worker-0/INFO] [net.blay09.mods.balm.neoforge.config.NeoForgeBalmConfig/]: Registering config for trashslot:common (COMMON) with 5 properties.
+[04Jan2026 06:46:17.681] [modloading-worker-0/INFO] [net.blay09.mods.balm.neoforge.config.NeoForgeBalmConfig/]: Registering config for waystones:common (COMMON) with 31 properties.
+[04Jan2026 06:46:17.710] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.217, for MC 1.21.1
+[04Jan2026 06:46:17.742] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[04Jan2026 06:46:17.789] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Loading v1.9.9 in server-side mode on NEOFORGE!
+[04Jan2026 06:46:17.790] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[04Jan2026 06:46:17.794] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[04Jan2026 06:46:17.794] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[04Jan2026 06:46:17.794] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging Copyright © 2014 Dhyan Blum.
+[04Jan2026 06:46:17.794] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging is licensed under Apache-2.0.
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath Copyright © 2017 Jayway.
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath is licensed under Apache-2.0.
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart Copyright © netplex.
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart is licensed under Apache-2.0.
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j Copyright © Frank Asseg.
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[04Jan2026 06:46:17.795] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side modules initialized and ready to use!
+[04Jan2026 06:46:17.906] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.13.
+[04Jan2026 06:46:17.925] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[04Jan2026 06:46:17.997] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[04Jan2026 06:46:18.053] [modloading-worker-0/INFO] [Towns and Towers/]: Loading T&T
+[04Jan2026 06:46:18.137] [modloading-worker-0/ERROR] [Cristel Lib/]: [t_and_t, cristellib]
+[04Jan2026 06:46:18.155] [modloading-worker-0/ERROR] [Cristel Lib/]: cyclopscore
+[04Jan2026 06:46:18.156] [modloading-worker-0/ERROR] [Cristel Lib/]: mowziesmobs
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: kuma_api
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: fabric_renderer_api_v1
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: trashslot
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: grabbymobs
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: geckolib
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: atistructures
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: jei
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: commonnetworking
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: goblintraders
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: sophisticatedcore
+[04Jan2026 06:46:18.157] [modloading-worker-0/ERROR] [Cristel Lib/]: waystones
+[04Jan2026 06:46:18.160] [modloading-worker-0/ERROR] [Cristel Lib/]: journeymap
+[04Jan2026 06:46:18.160] [modloading-worker-0/ERROR] [Cristel Lib/]: neoforge
+[04Jan2026 06:46:18.161] [modloading-worker-0/ERROR] [Cristel Lib/]: comforts
+[04Jan2026 06:46:18.161] [modloading-worker-0/ERROR] [Cristel Lib/]: fabric_block_view_api_v2
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: evilcraft
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: iris
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: dungeoncrawl
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: sophisticatedbackpacks
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: medievalend
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: medieval_buildings
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: balm
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: sodium
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: carryon
+[04Jan2026 06:46:18.162] [modloading-worker-0/ERROR] [Cristel Lib/]: dungeons_arise_seven_seas
+[04Jan2026 06:46:18.163] [modloading-worker-0/ERROR] [Cristel Lib/]: cloth_config
+[04Jan2026 06:46:18.163] [modloading-worker-0/ERROR] [Cristel Lib/]: konkrete
+[04Jan2026 06:46:18.163] [modloading-worker-0/ERROR] [Cristel Lib/]: replantingcrops
+[04Jan2026 06:46:18.163] [modloading-worker-0/ERROR] [Cristel Lib/]: dungeons_arise
+[04Jan2026 06:46:18.163] [modloading-worker-0/ERROR] [Cristel Lib/]: nordic_structures
+[04Jan2026 06:46:18.164] [modloading-worker-0/ERROR] [Cristel Lib/]: fabric_api_base
+[04Jan2026 06:46:18.166] [modloading-worker-0/ERROR] [Cristel Lib/]: jade
+[04Jan2026 06:46:18.167] [modloading-worker-0/ERROR] [Cristel Lib/]: amplified_nether
+[04Jan2026 06:46:18.167] [modloading-worker-0/ERROR] [Cristel Lib/]: spectrelib
+[04Jan2026 06:46:18.167] [modloading-worker-0/ERROR] [Cristel Lib/]: born_in_chaos_v1
+[04Jan2026 06:46:18.168] [modloading-worker-0/ERROR] [Cristel Lib/]: forgeconfigapiport
+[04Jan2026 06:46:18.168] [modloading-worker-0/ERROR] [Cristel Lib/]: lionfishapi
+[04Jan2026 06:46:18.168] [modloading-worker-0/ERROR] [Cristel Lib/]: evilcraftcompat
+[04Jan2026 06:46:18.168] [modloading-worker-0/ERROR] [Cristel Lib/]: cataclysm
+[04Jan2026 06:46:18.168] [modloading-worker-0/ERROR] [Cristel Lib/]: curios
+[04Jan2026 06:46:18.168] [modloading-worker-0/ERROR] [Cristel Lib/]: mes
+[04Jan2026 06:46:18.169] [modloading-worker-0/ERROR] [Cristel Lib/]: collective
+[04Jan2026 06:46:18.169] [modloading-worker-0/ERROR] [Cristel Lib/]: advancednetherite
+[04Jan2026 06:46:18.169] [modloading-worker-0/ERROR] [Cristel Lib/]: securitycraft
+[04Jan2026 06:46:18.169] [modloading-worker-0/ERROR] [Cristel Lib/]: mr_dungeons_andtaverns
+[04Jan2026 06:46:18.170] [modloading-worker-0/ERROR] [Cristel Lib/]: tombstone
+[04Jan2026 06:46:18.170] [modloading-worker-0/ERROR] [Cristel Lib/]: mvs
+[04Jan2026 06:46:18.171] [modloading-worker-0/ERROR] [Cristel Lib/]: blood_n_particles_mod
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: fabric_rendering_data_attachment_v1
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: justzoom
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: extra_dungeons
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: moogs_structures
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: framework
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: smallships
+[04Jan2026 06:46:18.173] [modloading-worker-0/ERROR] [Cristel Lib/]: journeymap_api
+[04Jan2026 06:46:18.842] [modloading-sync-worker/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[04Jan2026 06:46:19.454] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[04Jan2026 06:46:19.522] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.waystones.compat.JadeIntegration
+[04Jan2026 06:46:19.529] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from org.cyclops.evilcraftcompat.modcompat.jade.JadeEvilCraftConfig
+[04Jan2026 06:46:19.529] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.balm.neoforge.compat.hudinfo.NeoForgeJadeModCompat
+[04Jan2026 06:46:19.529] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[04Jan2026 06:46:19.536] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[04Jan2026 06:46:19.538] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[04Jan2026 06:46:19.538] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[04Jan2026 06:46:19.539] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[04Jan2026 06:46:19.539] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[04Jan2026 06:46:19.539] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/cyclops-core.json
+[04Jan2026 06:46:19.540] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from ovh.corail.tombstone.compatibility.IntegrationJade
+[04Jan2026 06:46:19.657] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04Jan2026 06:46:19.717] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/minecraft/server/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
+[04Jan2026 06:46:19.718] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/minecraft/server/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
+[04Jan2026 06:46:19.968] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.28.0 Target: null
+[04Jan2026 06:46:19.969] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/neoforge/goblintraders
+[04Jan2026 06:46:20.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3062 recipes
+[04Jan2026 06:46:20.674] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, dungeons_arise:find_thornborn_towers, dungeons_arise:find_fishing_hut, minecraft:give_quest_trader_trade]
+[04Jan2026 06:46:20.675] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2938 advancements
+[04Jan2026 06:46:20.677] [main/INFO] [Dungeon Crawl/]: Loading data...
+[04Jan2026 06:46:20.704] [NeoForge Version Check/WARN] [net.neoforged.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.VersionChecker$1.process(VersionChecker.java:167) ~[loader-4.0.42.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.VersionChecker$1.run(VersionChecker.java:105) [loader-4.0.42.jar%2359!/:4.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%2394!/:?]
+	... 6 more
+[04Jan2026 06:46:20.705] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[04Jan2026 06:46:20.749] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.0-beta.53 Target: 1.21.1-6.0.0-beta.52
+[04Jan2026 06:46:20.749] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/evilcraft.json
+[04Jan2026 06:46:20.780] [main/INFO] [Dungeon Crawl/]: Done.
+[04Jan2026 06:46:20.784] [main/INFO] [Curios API/]: Loaded 11 curio slots
+[04Jan2026 06:46:20.785] [main/INFO] [Curios API/]: Loaded 1 curio entities
+[04Jan2026 06:46:20.797] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: cataclysm:needs_black_steel_tool, cataclysm:needs_monstrosity_tool
+[04Jan2026 06:46:20.992] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.80 Target: null
+[04Jan2026 06:46:20.992] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [forgeconfigapiport] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/forgeconfigapiport.json
+[04Jan2026 06:46:20.997] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [forgeconfigapiport] Found status: OUTDATED Current: 21.1.0 Target: 21.1.6
+[04Jan2026 06:46:20.997] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[04Jan2026 06:46:21.233] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.3.1 Target: 2.3.1
+[04Jan2026 06:46:21.233] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[04Jan2026 06:46:21.312] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[04Jan2026 06:46:21.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[04Jan2026 06:46:21.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Jan2026 06:46:21.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Jan2026 06:46:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Jan2026 06:46:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Jan2026 06:46:21.399] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Jan2026 06:46:21.421] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[04Jan2026 06:46:21.443] [Server thread/INFO] [Framework/]: Loading server configs...
+[04Jan2026 06:46:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Jan2026 06:46:21.801] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.1 Target: null
+[04Jan2026 06:46:21.802] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json?neoforge=only
+[04Jan2026 06:46:21.917] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[04Jan2026 06:46:21.917] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/neoforge-update.json
+[04Jan2026 06:46:22.139] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.4.8 Target: null
+[04Jan2026 06:46:22.139] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/UpdateNeoForge.json
+[04Jan2026 06:46:22.377] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [smallships] Found status: AHEAD Current: 2.0.0-b2.1 Target: null
+[04Jan2026 06:46:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Jan2026 06:46:24.486] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jan2026 06:46:24.487] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jan2026 06:46:24.538] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 766 ms
+[04Jan2026 06:46:24.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.118s)! For help, type "help"
+[04Jan2026 06:46:24.569] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[04Jan2026 06:46:24.571] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[04Jan2026 06:46:24.572] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@7ba385a3 for service interface journeymap.api.services.ClientPlatformService
+[04Jan2026 06:46:24.573] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@940de52 for service interface journeymap.api.services.CommonPlatformService
+[04Jan2026 06:46:24.587] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[04Jan2026 06:46:24.591] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[04Jan2026 06:46:24.600] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[04Jan2026 06:46:24.600] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[04Jan2026 06:46:24.600] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[04Jan2026 06:46:24.601] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[04Jan2026 06:46:28.064] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player i4ngelxd is ab4351a6-5424-4349-8614-f6a371a1b6e6
+[04Jan2026 06:46:30.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: i4ngelxd[/8.243.126.234:58151] logged in with entity id 511 at (235.7375501184454, 68.0, -533.6999999880791)
+[04Jan2026 06:46:30.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i4ngelxd joined the game
+[04Jan2026 06:46:48.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: i4ngelxd lost connection: Disconnected
+[04Jan2026 06:46:48.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i4ngelxd left the game
+[04Jan2026 06:52:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown scoreboard objective 'health'
+[04Jan2026 06:52:52.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Created new objective [health]
+[04Jan2026 06:52:56.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set display slot list to show objective health
+[04Jan2026 06:53:04.742] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player i4ngelxd is ab4351a6-5424-4349-8614-f6a371a1b6e6
+[04Jan2026 06:53:07.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: i4ngelxd[/8.243.126.234:64778] logged in with entity id 1278 at (243.0826895428489, 73.0, -544.2433181822432)
+[04Jan2026 06:53:07.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i4ngelxd joined the game
+[04Jan2026 06:53:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set display slot below_name to show objective health
+[04Jan2026 06:53:21.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: i4ngelxd lost connection: Disconnected
+[04Jan2026 06:53:21.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i4ngelxd left the game
+[04Jan2026 06:53:27.120] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player i4ngelxd is ab4351a6-5424-4349-8614-f6a371a1b6e6
+[04Jan2026 06:53:29.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: i4ngelxd[/8.243.126.234:64792] logged in with entity id 1996 at (243.0826895428489, 73.0, -544.2433181822432)
+[04Jan2026 06:53:29.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i4ngelxd joined the game
+[04Jan2026 06:55:14.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: i4ngelxd lost connection: Timed out
+[04Jan2026 06:55:14.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: i4ngelxd left the game
+[04Jan2026 06:55:14.660] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2026 07:30:07.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[04Jan2026 07:57:50.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 

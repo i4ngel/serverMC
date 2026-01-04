@@ -1,0 +1,81 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 2026-01-04 06:41:54
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: evilcraftcompat --
+Details:
+	Mod file: /home/minecraft/server/mods/evilcraft-1.21.1-neoforge-1.2.80.jar
+	Failure message: Mod evilcraftcompat requires cyclopscore 1.25.1 or above
+		Currently, cyclopscore is not installed
+		
+	Mod version: 1.1.0
+	Mod issues URL: https://github.com/CyclopsMC/EvilCraft/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: evilcraft --
+Details:
+	Mod file: /home/minecraft/server/mods/evilcraft-1.21.1-neoforge-1.2.80.jar
+	Failure message: Mod evilcraft requires cyclopscore 1.28.0 or above
+		Currently, cyclopscore is not installed
+		
+	Mod version: 1.2.80
+	Mod issues URL: https://github.com/CyclopsMC/EvilCraft/issues
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Linux (amd64) version 5.15.0-144-generic
+	Java Version: 21.0.9, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1847595872 bytes (1762 MiB) / 2147483648 bytes (2048 MiB) up to 3221225472 bytes (3072 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC-Milan Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 4
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: Device
+	Graphics card #0 vendor: Vendor (0x1234)
+	Graphics card #0 VRAM (MiB): 8.00
+	Graphics card #0 deviceId: 0x1111
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 3473.92
+	Virtual memory used (MiB): 2944.82
+	Swap memory total (MiB): 1536.00
+	Swap memory used (MiB): 70.20
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 33740.22, total: 39510.43
+	Space in storage for workdir (MiB): available: 33740.22, total: 39510.43
+	JVM Flags: 12 total; -Xms2G -Xmx3G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeserver
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.42.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.42.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.42.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		server-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: NOSIGNATURE
+		neoforge-21.1.217-universal.jar                   |NeoForge                      |neoforge                      |21.1.217            |Manifest: NOSIGNATURE
